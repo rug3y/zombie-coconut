@@ -1,0 +1,44 @@
+.game-info {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.zombie-container {
+	display: block;
+	width: 38%;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.zombie-container img {
+	margin: 5px 5px 5px 5px;
+}
+
+.coconut-container {
+	display: block;
+	width: 43%;
+	margin: 0 auto;
+}
+
+.controls {
+	text-align: center;
+}
+
+.messages {
+	display: block;
+	float: none;
+	width: 38%;
+	min-height: 200px;
+	margin: 0 auto;
+	background-color: gray;
+
+}
+
+.messages p {
+	text-align: left;
+	margin-left: 10px;
+}
+
+.btn {
+	margin-top: 30px;
+}
